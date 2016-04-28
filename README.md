@@ -1,9 +1,9 @@
 # MQI
 ##Command line utility for  running scripts and commands across a cluster
-###(particularly aimed at Vector-H and Matrix/ParAccel)
+###(particularly aimed at VectorH and Matrix/ParAccel)
 
 ####Overview
-This Linux BASH script was initially developed to provide a mechanism by which commands could be invoked from a single node in a Vector in Hadoop (aka Vector-H or Vortex) or Matrix (aka ParAccel or PADB) cluster.  The results of which would then be picked up within the Actian Services' Enterprise Monitoring Appliance (EMA) - a solution developed to provide monitoring and alerting of Actian's products and based on the Nagios framework.
+This Linux BASH script was initially developed to provide a mechanism by which commands could be invoked from a single node in a Vector in Hadoop (aka VectorH or Vortex) or Matrix (aka ParAccel or PADB) cluster.  The results of which would then be picked up within the Actian Services' Enterprise Monitoring Appliance (EMA) - a solution developed to provide monitoring and alerting of Actian's products and based on the Nagios framework.
 ####Usage
 ```
   mqi
